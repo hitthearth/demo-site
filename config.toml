@@ -1,4 +1,4 @@
-baseURL = "http://lichongchong.top"
+baseURL = "https://festive-noether-b02422.netlify.com/"
 title = "Docs Demo"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
