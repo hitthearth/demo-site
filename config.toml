@@ -21,7 +21,7 @@ pygmentsStyle = "tango" # "emacs" # "autumn" # "manni" # "friendly"
 # for example: pygmentsoptions = "linenos=true"
 [params]
 	# General information
-	author = "LC"
+	author = "hitthearth"
 	description = "Documentations demo site."
 	copyright = "Released under the Apache 2.0 license"
 
@@ -52,7 +52,7 @@ pygmentsStyle = "tango" # "emacs" # "autumn" # "manni" # "friendly"
 
 
 [social]
-	github  = "LC"
+	github  = "hitthearth"
 	email   = "1528315273@qq.com"
 [blackfriday]
 	smartypants	= true
